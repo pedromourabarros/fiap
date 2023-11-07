@@ -1,0 +1,66 @@
+/* Estilos para a exibição dos dados do endereço */
+.form-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  
+  fieldset {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 10px;
+    background-color: #f5f5f5;
+  }
+  
+  legend {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  label {
+    margin-bottom: 10px;
+    display: block;
+  }
+  
+  input {
+    padding: 8px;
+    margin-top: 5px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    width: calc(100% - 18px);
+  }
+  
+  button[type='submit'],
+  button[type='reset'] {
+    padding: 8px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    color: #fff;
+    background-color: #006b2d;
+    margin-right: 10px;
+  }
+  
+  button[type='reset'] {
+    background-color: #000000;
+  }
+  
+  .button-container {
+    margin-top: 10px;
+  }
+  
+  .lista-clientes {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .cliente-item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f5f5f5;
+  }
+  

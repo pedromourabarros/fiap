@@ -1,0 +1,39 @@
+.sobre {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .sobre > div {
+    flex: 0 0 calc(40% - 10px); /* Agora cada div ocupa metade da largura disponível */
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .sobre img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 80%;
+  }
+  .sobre2 img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 80%;
+  }
+  
+  h1 {
+    color: #007929;
+  }
+  
+  h3 {
+    margin-top: 10px;
+  }
+  

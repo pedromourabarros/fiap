@@ -1,0 +1,15 @@
+footer {
+    display: flex;
+    flex-direction: row;
+    height: 70px;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 28px rgba(0, 82, 20, 0.986);
+}
+
+.icone-social {
+    color: green;
+    font-size: 30px; /* Tamanho dos ícones em pixels (ajuste conforme necessário) */
+    margin-right: 10px; /* Adiciona um espaço entre os ícones (ajuste conforme necessário) */
+  }
+  

@@ -1,0 +1,5 @@
+export const ListaProdutos =[
+  {id: 1, nome: "Livro Lógica de Programação e Algoritmos com JavaScript", desc: "Uma Introdução à Programação de Computadores com Exemplos e Exercícios Para Iniciantes Capa comum – 18 março 2022.", valor: 180},
+  {id: 2, nome: "Livro O Guia Definitivo Capa comum, Referência completa para programadores, JavaScript", desc: "O guia definitivo fornece uma ampla descrição da linguagem JavaScript básica e das APIs JavaScript do lado do cliente definidas pelos navegadores Web..", valor: 120},
+  {id: 3, nome: "Livro Aprendendo Node", desc: "Usando JavaScript no Servidor Capa comum, Reúna o conhecimento de programação que você já usa no navegador e empregue no servidor com o Node! Aprenda a criar aplicações em rede de alto desempenho e plenamente escalonáveis nesta plataforma baseada em JavaScript.", valor: 100},
+]
