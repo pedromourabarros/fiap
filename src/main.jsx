@@ -11,7 +11,8 @@ import Excluir from './routes/Excluir/Excluir.jsx';
 import Conteudo from './routes/Conteudo/Conteudo.jsx';
 import Login from './routes/Login/Login.jsx';
 import Sobre from './routes/Sobre/Sobre.jsx';
-import Cliente from './components/Cliente/Cliente.jsx'
+import Cliente from './components/Cliente/Cliente.jsx';
+// import Book from './components/Book/Booklist.jsx';
 
 
 
@@ -31,6 +32,7 @@ const router = createBrowserRouter([
       { path: '/cadastrar/produto', element: <Inserir /> },
       { path: '/editar/produtos/:id', element: <Editar /> },
       { path: '/excluir/produtos/:id', element: <Excluir /> },
+ //     { path: '/book', element: <Book />}
     ],
   },
 ]);
