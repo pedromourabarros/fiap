@@ -15,4 +15,4 @@ EQUIPE: NEW TECH
 
 DEPLOY:
 
-BR-01.lunarcloudservice.org:25573
+http://BR-01.lunarcloudservice.org:25573
