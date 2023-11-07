@@ -15,4 +15,4 @@ EQUIPE: NEW TECH
 
 DEPLOY:
 
-Nao consegui efetuar o deploy
+BR-01.lunarcloudservice.org:25573
